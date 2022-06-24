@@ -1,4 +1,6 @@
-# Single seriver infinite capacity - Markovian Model
+## EX NO:07
+## DATE:
+# Single server infinite capacity - Markovian Model
 
 # Aim : 
 To find 
@@ -42,9 +44,14 @@ result in an increase in the idle time of the service mechanism.
 8. Drag robot manager and robot from visual legacy and place in between two conveyors.
 9. Connect all machine trending  inlet, outlet, robot manager and lathe machine using interface menu.
 10. Run the program.
+# Experiment:
+![55](https://user-images.githubusercontent.com/75235090/175531961-dfee531c-8d4b-41f9-b089-6cf4114e8310.png)
+
 # Program :
+![56](https://user-images.githubusercontent.com/75235090/175532133-4159ea37-924a-4658-8e61-b87aa0f38156.png)
 
- 
+# Output : 
+ ![57](https://user-images.githubusercontent.com/75235090/175532238-68f09be0-a77e-47d1-82a0-d9975b96c09f.png)
 
-# Results and Output : 
- 
+## Result:
+The average number of materials in the system is 4 and the conveyor is 3.2, and average waiting time of each materials in the system is 60 seconds and conveyor is 48 seconds are calculated.
