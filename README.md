@@ -1,6 +1,6 @@
 ## EX NO:07
-## DATE:
-# Single server infinite capacity - Markovian Model
+## DATE:15.6.22
+# <p align="center">Single server infinite capacity - Markovian Model
 
 # Aim : 
 To find 
@@ -48,6 +48,11 @@ result in an increase in the idle time of the service mechanism.
 ![55](https://user-images.githubusercontent.com/75235090/175531961-dfee531c-8d4b-41f9-b089-6cf4114e8310.png)
 
 # Program :
+```
+Developed by:
+ Register Number:212220230035
+ Name:Prasannakumar M  
+ ```
 ![56](https://user-images.githubusercontent.com/75235090/175532133-4159ea37-924a-4658-8e61-b87aa0f38156.png)
 
 # Output : 
